@@ -8,7 +8,7 @@ There will be more info very soon~
 - Russian UI **(WIP)**
 
 # Is this a virus?
-No. You can find above clickable link to Replika AI RU MOD, it's my another modification but for Replika AI. I will add here similar link for Blush, but here is [VirusTotal scan on Replika AI RU MOD](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary), I honestly don't need your accounts and etc. Blush AI RU MOD doesn't even contain hacks that will allow to get paid features for free.
+No. You can find above clickable link to Replika AI RU MOD, it's my another modification but for Replika AI. I will add soon similar link for Blush, but here is [VirusTotal scan on Replika AI RU MOD](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary), I honestly don't need your accounts and etc. Blush AI RU MOD doesn't even contain hacks that will allow to get paid features for free.
 
 # Download:
 - [GitHub](https://github.com/FelixFester/BlushAIRUMOD/releases)
