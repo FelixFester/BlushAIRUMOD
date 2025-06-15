@@ -2,7 +2,7 @@ There will be more info very soon~
 
 ***
 
-# Planned features:
+# Planned (and also upcoming) features:
 - Russian language in UI
 
 # What was already done:
