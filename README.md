@@ -13,7 +13,7 @@ No. You can find above clickable link to Replika AI RU MOD, it's my another modi
 # Download:
 - [GitHub](https://github.com/FelixFester/BlushAIRUMOD/releases)
 
-***LGBTQ+ has been considered as extremist organization and forbidden in Russian Federation.**
+**This app contains mentions of LGBTQ+, that has been considered as extremist organization and forbidden in Russian Federation.**
 
 # Credits:
 - Translation, monochrome icon: Me
