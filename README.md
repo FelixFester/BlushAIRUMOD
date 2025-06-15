@@ -13,7 +13,7 @@ No. You can find above clickable link to Replika AI RU MOD, it's my another modi
 # Download:
 - [GitHub](https://github.com/FelixFester/BlushAIRUMOD/releases)
 
-**If you live in Russia, I would recommend you to NOT download and use Blush AI. You have been warned.**
+**If you live in Russia, please DO NOT download and use Blush AI. For more info, open 282.4 article of the Criminal Code of the Russian Federation (УК РФ) and article 6.21.2 of the Code of Administrative Offences (КоАП). You have been warned.**
 
 # Credits:
 - Translation, monochrome icon: Me
